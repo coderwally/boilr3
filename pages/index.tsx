@@ -65,7 +65,7 @@ export default function Home() {
 					width={250}
 					height={37}
 					priority
-				/>
+				/><h1 className="text-xl ml-5 font-bold">EXPERIMENTAL</h1>
 			</div>
 			<div className='mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left mt-24 lg:mt-0'>
 				{links.map((link, index) => (
